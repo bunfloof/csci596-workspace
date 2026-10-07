@@ -1,0 +1,14 @@
+##### Strong scaling #####
+Pi = 3.141593e+00
+Nprocs & Execution time (s) = 4	3.497740e-01
+Pi = 3.141593e+00
+Nprocs & Execution time (s) = 2	6.698596e-01
+Pi = 3.141593e+00
+Nprocs & Execution time (s) = 1	1.246651e+00
+##### Weak scaling   #####
+Pi = 3.141593e+00
+Nprocs & Execution time (s) = 4	1.319268e+00
+Pi = 3.141593e+00
+Nprocs & Execution time (s) = 2	1.301555e+00
+Pi = 3.141593e+00
+Nprocs & Execution time (s) = 1	1.237469e+00
